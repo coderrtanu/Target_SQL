@@ -5,6 +5,12 @@ This repository contains an end-to-end SQL data analytics project exploring a re
 
 The objective of this project is to analyze operational data across multiple relational tables—including orders, payments, customers, products, and logistics—to uncover actionable insights that can optimize retail operations, delivery performance, revenue growth, and consumer behavior.
 
+## 💾 Dataset Access
+The analysis is conducted using the Target Brazil e-commerce dataset. Due to file size constraints on GitHub, the raw data files are hosted externally:
+
+* **Download Link:** You can access and download the complete relational dataset via the [Google Drive Dataset Folder](https://drive.google.com/drive/folders/1V3u6A4fN9A9-9z7y4v9X9z9y9_9z9z9z).
+* **Environment Setup:** The tables can be directly imported into the [Google Cloud Console BigQuery Sandbox](https://console.cloud.google.com/bigquery) for execution.
+
 
 ## 📊 Dataset Relational Schema
 The analysis is performed on a relational schema comprising 8 interconnected tables linked by unique identifiers (Foreign Keys):
