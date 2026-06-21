@@ -8,7 +8,8 @@ The objective of this project is to analyze operational data across multiple rel
 ## 💾 Dataset Access
 The analysis is conducted using the Target Brazil e-commerce dataset. Due to file size constraints on GitHub, the raw data files are hosted externally:
 
-* **Download Link:** You can access and download the complete relational dataset via the [Google Drive Dataset Folder](https://drive.google.com/drive/folders/1V3u6A4fN9A9-9z7y4v9X9z9y9_9z9z9z).
+* **Download Link:** You can access and download the complete relational dataset via the [Google Drive Dataset Folder]
+  (https://drive.google.com/drive/folder...)
 * **Environment Setup:** The tables can be directly imported into the [Google Cloud Console BigQuery Sandbox](https://console.cloud.google.com/bigquery) for execution.
 
 
